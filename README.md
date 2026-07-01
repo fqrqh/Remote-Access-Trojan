@@ -32,7 +32,7 @@
      ```
 3. **Commands!**
 
-   ![PssEncoder Demo](https://raw.githubusercontent.com/fqrqh/PasswordEncoder/refs/heads/main/prev.gif)
+   ![PssEncoder Demo](https://raw.githubusercontent.com/fqrqh/Remote-Access-Trojan/refs/heads/main/Commands.png)
 
 ## 📌Contributing
 
