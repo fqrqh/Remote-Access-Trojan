@@ -25,12 +25,12 @@
      
 
 2. **Open Source**
-   - this project is open source!!
+   - this project is open source - AND EDUCATIONAL PURPOSES ONLY!!
      ```bash
-     git clone <URL>
-     cd 64Pass
+     git clone <RAT>
+     cd RAT
      ```
-3. **Watch the little demo!**
+3. **Commands!**
 
    ![PssEncoder Demo](https://raw.githubusercontent.com/fqrqh/PasswordEncoder/refs/heads/main/prev.gif)
 
