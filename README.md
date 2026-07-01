@@ -1,5 +1,5 @@
 
-<h2 align="center">Linus RAT</h2>
+<h2 align="center">Linus Remote Access Trojan</h2>
 
 <p align="center">
   <img width="400" height="333" alt="image" src="fck" />
@@ -12,14 +12,17 @@
 
 </p>
 
-## 64Pass
+## Remote Access Trojan
 
-**64Pass is a simple text to base64 encrypter, dont use these encrypted password since everybody can decode base64!!**
+**simple Remote Access Trojan, Really simple to setup and use via command in your discord server!!**
 
 ## 📌Installation
 
-1. **Launch the Encoder**
-   - The Website was deployed to netlify at this link: **https://64pass.netlify.app/**
+1. **PIP the Requirement**
+   - ```bash
+      pip install r- requirement.txt
+     ```
+     
 
 2. **Open Source**
    - this project is open source!!
