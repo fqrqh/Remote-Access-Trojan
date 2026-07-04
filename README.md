@@ -21,7 +21,7 @@
 
 ## INFORMATION
 
-| INFORMATION |
+| Information | Description |
 |------|-------------|
 | `WEBHOOK` | WEBHOOK OF THE SERVER |
 | `PATH` | PATH FOR THE PICTURE VIDEOS AND MORE TO GO |
