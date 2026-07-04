@@ -87,8 +87,9 @@
 | `!exit` | Exit |
 
 7. **Demo SOON!**
+# Project Name
 
-<img src="https://res.cloudinary.com/dxh0c3knq/image/upload/v1783208790/undefined-Imgur1-ezgif.com-gif-to-apng-converter_xefanl.png" alt="Version 3">
+![Version 3](https://res.cloudinary.com/dxh0c3knq/image/upload/v1783208790/undefined-Imgur1-ezgif.com-gif-to-apng-converter_xefanl.png)
 
 
 
